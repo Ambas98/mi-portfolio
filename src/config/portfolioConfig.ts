@@ -41,7 +41,7 @@ export const portfolioConfig: PortfolioConfig = {
         "Sitio web para Café Sublime, café de especialidad en San Juan, Argentina. Diseño a medida con identidad de marca propia: colores, tipografía, logo y fotos del local. Menú completo, sucursales con Google Maps, beneficios y sección de eventos.",
       tech: ["Next.js 14", "TypeScript", "Tailwind CSS", "Vercel"],
       githubUrl: "https://github.com/Ambas98/Sublime",
-      liveUrl: undefined,
+      liveUrl: "https://sublime-taupe.vercel.app/",
       status: "live",
       highlights: [
         "Diseño 100% a medida basado en manual de marca del cliente",
@@ -57,7 +57,7 @@ export const portfolioConfig: PortfolioConfig = {
         "Sitio web para Shefri, pizzería napolitana artesanal en San Juan. Menú visual con fotos de cada pizza, sistema de pedidos por WhatsApp, galería y sección de eventos. Identidad gráfica completa integrada al diseño.",
       tech: ["Next.js 14", "TypeScript", "Tailwind CSS", "Vercel"],
       githubUrl: "https://github.com/Ambas98/Shefri-web",
-      liveUrl: undefined,
+      liveUrl: "https://shefri-web.vercel.app/",
       status: "live",
       highlights: [
         "Menú visual con imágenes por producto",
@@ -73,7 +73,7 @@ export const portfolioConfig: PortfolioConfig = {
         "Sitio web institucional para la Cooperativa El Abanico, San Juan. Presenta los servicios, historia y valores de la organización con un diseño limpio y accesible, optimizado para SEO.",
       tech: ["HTML5", "CSS3", "JavaScript"],
       githubUrl: "https://github.com/Ambas98/Coperativa-El-Abanico",
-      liveUrl: undefined,
+      liveUrl: "https://coperativa-el-abanico.vercel.app/",
       status: "live",
       highlights: [
         "Diseño institucional accesible",
